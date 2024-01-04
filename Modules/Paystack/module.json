@@ -1,0 +1,15 @@
+{
+    "name": "Paystack",
+    "alias": "paystack",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 11,
+    "providers": [
+        "Modules\\Paystack\\Providers\\PaystackServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,105 @@
+:root {
+    --back-color: #81899b;
+    --primary-color: black;
+    --header-back: white;
+    --header-text: black;
+    --text-opacity: #ffc10731;
+    --text: #FCCA19;
+    --text-hover: #ffc107da;
+    --log-text: #fafce7;
+  }
+  .box img {
+    border: 2px solid var(--primary-color);
+  }
+
+  .color_switch_bordered{
+    border: 2px solid var(--text);
+}
+
+  .color_switch_bac_opacity{
+    background-color: var(--text-opacity);
+  }
+
+  .color_switch{
+    color: var(--text) !important;
+  }
+
+  .color_switch_bac{
+    background-color: var(--text);
+  }
+
+  .color_switch_log{
+    background-color: var(--log-text);
+  }
+
+  .color_switch_hover:hover{
+      color: var(--header-back);
+      background-color: var(--text-hover);
+  }
+
+  .ui-state-active,
+  .ui-state-active:hover {
+      color: var(--text) !important;
+  }
+
+  .color_switch_border{
+    border-left: 4px solid var(--text);
+  }
+
+  div.payment-product.selected{
+    border: 2px solid var(--text);
+}
+
+  html[dir="rtl"] .color_switch_border{
+    border-right: 4px solid var(--text);
+    border-left: unset;
+  }
+
+  .color_switch_borders:hover{
+    border: 1px solid var(--text);
+  }
+
+  .text-green-500{
+    color: var(--text);
+  }
+  .rating-stars ul > li.star.selected > i.fa {
+    color: var(--text) !important;
+}
+
+.rating-stars ul > li.star.hover > i.fa {
+    color: var(--text) !important;
+}
+  /* menu item hover */
+
+.header .menu > ul > li .menu-subs.menu-mega > .list-item > ul > li > a:hover,
+.header .menu > ul > li .menu-subs > ul > li > a:hover {
+  color: var(--text) !important;
+}
+
+.category-hover:hover {
+    background-color: #FFC107;
+    color: black !important;
+    padding-left: 7px;
+    transition: all 120ms ease-in-out;
+}
+
+.category-hover:hover {
+    color: black !important;
+    padding-left: 7px;
+    transition: all 120ms ease-in-out;
+}
+
+.header .menu > ul > li .menu-subs.menu-column-4 > .list-item .title {
+  color: var(--text) !important;
+}
+
+.header .menu > ul > li .menu-subs {
+  border-top: 3px solid var(--text) !important;
+}
+
+/* menu item hover end*/
+
+/* filter page css */
+.border-two:before{
+  border-bottom:3px solid var(--text) !important;
+}

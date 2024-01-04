@@ -1,0 +1,15 @@
+{
+    "name": "Commission",
+    "alias": "commission",
+    "core": true,
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 6,
+    "providers": [
+        "Modules\\Commission\\Providers\\CommissionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

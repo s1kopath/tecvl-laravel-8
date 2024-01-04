@@ -1,0 +1,107 @@
+:root {
+    --back-color: #81899b;
+    --primary-color: black;
+    --header-back: white;
+    --header-text: black;
+    --text-opacity: #17a3b834;
+    --text: #17a2b8;
+    --text-hover: #3cb4c7;
+    --log-text: #e7f4fc;
+  }
+
+  /* .svg-bg {
+        fill: var(--text);
+    } */
+  .box img {
+    border: 2px solid var(--primary-color);
+  }
+
+  .color_switch_bordered{
+    border: 2px solid var(--text);
+}
+
+  /* 17a2b8 */
+  .color_switch_bac_opacity{
+    background-color: var(--text-opacity);
+  }
+
+  .color_switch{
+    color: var(--text) !important;
+  }
+
+  .color_switch_bac{
+    /* color: var(--header-back); */
+    background-color: var(--text);
+  }
+
+  .color_switch_log{
+    background-color: var(--log-text);
+  }
+
+  .color_switch_hover:hover{
+      color: var(--header-back);
+      background-color: var(--text-hover);
+  }
+
+  .ui-state-active,
+    .ui-state-active:hover {
+        color: var(--text) !important;
+    }
+
+  .color_switch_border{
+    border-left: 4px solid var(--text);
+  }
+
+  div.payment-product.selected{
+    border: 2px solid var(--text);
+}
+
+  html[dir="rtl"] .color_switch_border{
+    border-right: 4px solid var(--text);
+    border-left: unset;
+  }
+
+  .color_switch_borders:hover{
+    border: 1px solid var(--text);
+  }
+
+  .group-category ul li a:hover {
+    color: var(--text) !important;
+    }
+
+  .text-green-500{
+    color: var(--text);
+  }
+
+  .rating-stars ul > li.star.selected > i.fa {
+    color: var(--text) !important;
+}
+
+.rating-stars ul > li.star.hover > i.fa {
+    color: var(--text) !important;
+}
+
+/* menu item hover */
+.header .menu > ul > li .menu-subs.menu-mega > .list-item > ul > li > a:hover,
+.header .menu > ul > li .menu-subs > ul > li > a:hover {
+  color: var(--text) !important;
+}
+
+.header-item-right a:hover,
+.header .menu > ul > li:hover > a {
+  color: var(--text) !important;
+}
+
+.header .menu > ul > li .menu-subs.menu-column-4 > .list-item .title {
+  color: var(--text) !important;
+}
+
+.header .menu > ul > li .menu-subs {
+  border-top: 3px solid var(--text) !important;
+}
+/* menu item hover end*/
+
+/* filter page css */
+.border-two:before{
+  border-bottom:3px solid var(--text) !important;
+}

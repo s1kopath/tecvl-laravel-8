@@ -1,0 +1,17 @@
+{
+    "Order Refund": "Order Refund",
+    "Place A Refund Request": "Place A Refund Request",
+    "Order ID": "Order ID",
+    "Please let me know, why are you want to refund this item.": "Please let me know, why are you want to refund this item.",
+    "You exceeded the maximum quantity.": "You exceeded the maximum quantity.",
+    "Refund request send successfully.": "Refund request send successfully.",
+    "Refunds": "Refunds",
+    "Refund Method": "Refund Method",
+    "Refund Reason": "Refund Reason",
+    "Refund Request": "Refund Request",
+    "Refund Information": "Refund Information",
+    "Refund does not found.": "Refund does not found.",
+    "Completed status can't be changed": "Completed status can't be changed",
+    "Update Refund Request": "Update Refund Request",
+    "Are you sure to change refund status?": "Are you sure to change refund status?"
+}

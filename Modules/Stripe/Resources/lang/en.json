@@ -1,0 +1,18 @@
+{
+    "Publishable Key": "Publishable Key",
+    "Api Key": "Client Secret Key",
+    "Please specify sandbox enabled/disabled.": "Please specify sandbox enabled/disabled.",
+    "Instruction": "Instruction",
+    "Sandbox": "Sandbox",
+    "Credit or debit card": "Credit or debit card",
+    "Status": "Status",
+    "Error while trying to setup stripe.": "Error while trying to setup stripe.",
+    "Payment Request failed due to some issues. Please try again later.": "Payment Request failed due to some issues. Please try again later.",
+    "Payment Request failed due to credentials mismatch.": "Payment Request failed due to credentials mismatch.",
+    "Paying with Stripe": "Paying with Stripe",
+    "Pay With Stripe": "Pay With Stripe",
+    "Purchase data not found.": "Purchase data not found.",
+    "Stripe Documentation": "Stripe Documentation",
+    "Settings": "Settings",
+    "Stripe settings updated.": "Stripe settings updated."
+}

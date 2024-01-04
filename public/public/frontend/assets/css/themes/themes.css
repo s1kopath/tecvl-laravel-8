@@ -1,0 +1,106 @@
+
+.hide {
+    transform: translateX(-200px);
+}
+
+.colors {
+height:300px;
+width: 200px;
+background: rgb(255, 255, 255);
+box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%);
+padding: 15px;
+
+}
+
+#myBtn{
+  cursor: pointer;
+  /* position: fixed; */
+  margin-top: 115%;
+  background-color: rgb(255, 255, 255);
+  color: rgb(253, 163, 89);
+  padding: 6px;
+  height: 40px;
+  width: 40px;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  border-radius: 0 50% 50% 0;
+  /* box-shadow: 0 3px 6px 0 rgb(0 0 0 / 15%); */
+  cursor: pointer;
+  z-index: -1;
+
+}
+/* css for switch toggle modal end */
+
+
+/* css for switch toggle */
+
+:root {
+  --light: #10B981;
+  --sky: #4C1D95;
+  --purple: #97266d;
+  --pink: #e83e8c;
+  --yellow: #ffc107;
+  --cyan: #17a2b8;
+  --brown: #795548;
+  --orange: #fd7e14;
+
+}
+
+.theme-switches {
+  display: flex;
+  justify-content: center;
+}
+
+.fa-spins {
+    -webkit-animation: fa-spin 8s infinite linear !important;
+    animation: fa-spin 8s infinite linear !important;
+  }
+
+
+.switch {
+  height: 35px;
+  width: 35px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.switch-one {
+  height: 20px;
+  width: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.switch:hover {
+  transform: scale(1.2);
+  transition: 0.3s ease-in-out;
+}
+
+#switch-1 {
+  background-color: var(--light);
+}
+#switch-2 {
+  background-color: var(--sky);
+}
+#switch-3 {
+  background-color: var(--purple);
+}
+#switch-4 {
+  background-color: var(--pink);
+}
+#switch-5 {
+  background-color: var(--yellow);
+}
+
+#switch-6{
+  background-color: var(--cyan);
+}
+#switch-7{
+  background-color: var(--brown);
+}
+
+#switch-8{
+  background-color: var(--orange);
+}

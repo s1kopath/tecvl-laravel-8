@@ -1,0 +1,15 @@
+{
+    "name": "Coinpayment",
+    "alias": "coinpayment",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 5,
+    "providers": [
+        "Modules\\Coinpayment\\Providers\\CoinpaymentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

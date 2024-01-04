@@ -1,0 +1,19 @@
+{
+    "Secret Key": "Secret Key",
+    "Public Key": "Public Key",
+    "Please specify sandbox enabled/disabled.": "Please specify sandbox enabled/disabled.",
+    "Instruction": "Instruction",
+    "Sandbox": "Sandbox",
+    "Status": "Status",
+    "Email is required!": "Email is required!",
+    "No reference supplied.": "No reference supplied.",
+    "Email address": "Email address",
+    "Pay with Paystack": "Pay with Paystack",
+    "Reference doesn't match with the order.": "Reference doesn't match with the order.",
+    "Validation Failed.": "Validation Failed.",
+    "Paying with Paystack": "Paying with Paystack",
+    "Settings": "Settings",
+    "Paystack Documentation": "Paystack Documentation",
+    "Paystack settings updated.": "Paystack settings updated.",
+    "Purchase data not found.": "Purchase data not found."
+}

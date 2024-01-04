@@ -1,0 +1,18 @@
+{
+    "Addons": "Addons",
+    "Upload Addon": "Upload Addon",
+    "Upload module": "Upload module",
+    "Submit": "Submit",
+    "Version": "Version",
+    "Addon Information": "Addon Information",
+    "Purchase Code": "Purchase Code",
+    "Upload addon zip...": "Upload addon zip...",
+    "Please provide valid purchase code.": "Please provide valid purchase code.",
+    "Addon successfully uploaded.": "Addon successfully uploaded.",
+    "Addon not found.": "Addon not found.",
+    "Addon status successfully changed.": "Addon status successfully changed.",
+    "Addon successfully removed.": "Addon successfully removed.",
+    "Validation failed.": "Validation failed.",
+    "Addon status updated.": "Addon status updated.",
+    "Something went wrong, please try again.": "Something went wrong, please try again."
+}

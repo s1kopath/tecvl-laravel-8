@@ -1,0 +1,15 @@
+{
+    "Client Secret Key": "Client Secret Key",
+    "Client Id": "Client Id",
+    "Please specify sandbox enabled/disabled.": "Please specify sandbox enabled/disabled.",
+    "Instruction": "Instruction",
+    "Sandbox": "Sandbox",
+    "Status": "Status",
+    "PayPal Documentation": "PayPal Documentation",
+    "Settings": "Settings",
+    "Paypal settings updated.": "Paypal settings updated.",
+    "Payment cancelled from paypal.": "Payment cancelled from paypal.",
+    "Paying with Paypal": "Paying with Paypal",
+    "Payment Failed.": "Payment Failed.",
+    "Purchase data not found.": "Purchase data not found."
+}

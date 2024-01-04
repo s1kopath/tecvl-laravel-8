@@ -1,0 +1,15 @@
+{
+    "name": "CashOnDelivery",
+    "alias": "cashondelivery",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CashOnDelivery\\Providers\\CashOnDeliveryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

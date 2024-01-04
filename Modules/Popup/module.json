@@ -1,0 +1,15 @@
+{
+    "name": "Popup",
+    "alias": "popup",
+    "core": true,
+    "version": "1.0",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Popup\\Providers\\PopupServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

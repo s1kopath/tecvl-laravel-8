@@ -1,0 +1,14 @@
+:root {
+  --back-color: #eee;
+  --primary-color: #000000;
+  --header-back: #fffdfd;
+  --header-text: rgb(194, 192, 192);
+  --m-text: #d42c2c;
+}
+.box img {
+  border: 2px solid var(--primary-color);
+}
+
+.red{
+  color: var(--m-text);
+}

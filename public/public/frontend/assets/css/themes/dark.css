@@ -1,0 +1,111 @@
+:root {
+  --back-color: #81899b;
+  --primary-color: black;
+  --header-back: white;
+  --header-text: black;
+  --text-opacity: #e83e8d2c;
+  --pink-text: #e83e8c;
+  --log-text: #FCE7F3;
+  --pink-hover: #e83e8dbb;
+
+}
+
+/* .svg-bg {
+    fill: var(--pink-text);
+} */
+
+.box img {
+  border: 2px solid var(--primary-color);
+}
+
+.color_switch_bordered{
+    border: 2px solid var(--pink-text);
+}
+
+.color_switch{
+  color: var(--pink-text) !important;
+}
+
+.color_switch_bac_opacity{
+    background-color: var(--text-opacity);
+  }
+
+.color_switch_bac{
+  /* color: var(--header-back); */
+  background-color: var(--pink-text);
+}
+
+.color_switch_log{
+  background-color: var(--log-text);
+}
+
+.color_switch_hover:hover{
+    color: var(--header-back);
+    background-color: var(--pink-hover);
+}
+
+.ui-state-active,
+.ui-state-active:hover {
+    color: var(--pink-text) !important;
+}
+
+.color_switch_border{
+  border-left: 4px solid var(--pink-text);
+}
+
+div.payment-product.selected{
+    border: 2px solid var(--pink-text);
+}
+
+html[dir="rtl"] .color_switch_border{
+  border-right: 4px solid var(--pink-text);
+  border-left: unset;
+}
+
+.color_switch_borders:hover{
+  border: 1px solid var(--pink-text);
+}
+
+.text-green-500{
+  color: var(--pink-text) !important;
+}
+
+.rating-stars ul > li.star.selected > i.fa {
+    color: var(--pink-text) !important;
+}
+
+.rating-stars ul > li.star.hover > i.fa {
+    color: var(--pink-text) !important;
+}
+
+/* menu item hover */
+
+.header .menu > ul > li .menu-subs.menu-mega > .list-item > ul > li > a:hover,
+.header .menu > ul > li .menu-subs > ul > li > a:hover {
+  color: var(--pink-text) !important;
+}
+
+.header-item-right a:hover,
+.header .menu > ul > li:hover > a {
+  color: var(--pink-text) !important;
+}
+
+.group-category ul li a:hover {
+    color: var(--pink-text) !important;
+}
+
+.header .menu > ul > li .menu-subs.menu-column-4 > .list-item .title {
+  color: var(--pink-text) !important;
+}
+
+.header .menu > ul > li .menu-subs {
+  border-top: 3px solid var(--pink-text) !important;
+}
+
+/* menu item hover end*/
+
+
+/* filter page css */
+.border-two:before{
+  border-bottom:3px solid var(--pink-text) !important;
+}
